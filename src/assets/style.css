@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-shadow {
+  box-shadow: 0 -50px 30px rgb(9, 27, 41);
+}
+
+/* notes */
+/* filter: drop-shadow(0 -20px 50px #091b29);  */
+
+/*
+.shadow {
+  box-shadow: <kekanan> <kebawah> <ketebalan> <warna>;
+} 
+.filter
+filter: drop-shadow(<kekanan> <kebawah> <ketebalan> <warna>);
+
+*/
+
+/* story */
+/* .bg-red-500 {
+  background-color: red;
+} */
+
+/* @import url("https://fonts.googleapis.com/css2?family=Anton&family=Montserrat:ital@1&family=Pacifico&display=swap");
+.font-anton {
+  font-family: "Anton", sans-serif;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Pacifico", cursive;
+} */
