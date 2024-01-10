@@ -1,5 +1,5 @@
 <script setup>
-import navDropdown from "./navDropdown.vue";
+import NavDropdown from "./NavDropdown.vue";
 </script>
 
 <template>
@@ -13,7 +13,7 @@ import navDropdown from "./navDropdown.vue";
         <a class="text-white mx-2 p-2 px-5 rounded-md hover:bg-white hover:bg-opacity-5 hover:text-sky-600" href="#portfolio">Portfolio</a>
         <a class="text-white mx-2 p-2 px-5 rounded-md hover:bg-white hover:bg-opacity-5 hover:text-sky-600" href="#contact">Contact</a>
       </nav>
-      <navDropdown />
+      <NavDropdown />
     </div>
   </header>
 </template>
