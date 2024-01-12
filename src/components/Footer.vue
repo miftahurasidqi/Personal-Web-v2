@@ -19,6 +19,7 @@ const year = date.getFullYear();
         >
           <github />
         </a>
+
         <a
           href="https://www.linkedin.com/in/miftahurasidqi/"
           target="_blank"
@@ -28,7 +29,7 @@ const year = date.getFullYear();
         </a>
 
         <a
-          href="https://www.instagram.com/miftahurrogi_09/"
+          href="https://www.instagram.com/miftahurrofi_09/"
           target="_blank"
           class="w-9 h-9 mr-3 rounded-full flex justify-center items-center border border-secondary text-secondary dark:border-slate-300 dark:text-slate-300 hover:border-primary hover:bg-primary hover:text-white"
         >
