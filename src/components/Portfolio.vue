@@ -29,9 +29,9 @@
             <p class="text-sky-600 text-opacity-80 lg:text-2xl">2023</p>
             <p>Aplikasi Web untuk preensi dosen dan karyawan IBN Lampung dengan mengunakan QR Code. Aplikasi ini juga dapat melakukan pencatatan kehadiran dosen dan karyawan dengan cara scan QR code.</p>
           </div>
-          <div class="flex gap-4">
+
+          <div class="flex flex- gap-4">
             <span class="text-xs lg:text-sm px-3 py-1 text-sky-100 rounded-full bg-sky-700 bg-opacity-30">React</span>
-            <span class="text-xs lg:text-sm px-3 py-1 text-sky-100 rounded-full bg-sky-700 bg-opacity-30">Node</span>
             <span class="text-xs lg:text-sm px-3 py-1 text-sky-100 rounded-full bg-sky-700 bg-opacity-30">Express</span>
             <span class="text-xs lg:text-sm px-3 py-1 text-sky-100 rounded-full bg-sky-700 bg-opacity-30">MongoDB</span>
             <span class="text-xs lg:text-sm px-3 py-1 text-sky-100 rounded-full bg-sky-700 bg-opacity-30">TailwindCSS</span>
