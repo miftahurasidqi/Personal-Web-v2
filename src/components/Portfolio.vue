@@ -6,7 +6,7 @@
     </div>
 
     <div class="w-full grid grid-cols-1 gap-8 py-8 px-6 sm:px-0">
-      <a href="https://github.com/miftahurasidqi/final-project-team-3" target="_blank">
+      <a href="https://github.com/miftahurasidqi/FinalProject-InosoftBootcamp" target="_blank">
         <div class="grid grid-cols-1 lg:grid-cols-5 gap-3 lg:gap-5 shadow-md duration-500 p-4 rounded-lg bg-white hover:bg-opacity-10 bg-opacity-5">
           <img class="lg:col-span-2 w-full rounded-lg lg:w-" src="../assets/images/3Th-Party-Instruction.png" alt="" />
           <div class="flex flex-col justify-between lg:col-span-3 gap-6 lg:gap-0">
